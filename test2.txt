@@ -1,0 +1,2 @@
+hi 
+this file regarding git config setup
